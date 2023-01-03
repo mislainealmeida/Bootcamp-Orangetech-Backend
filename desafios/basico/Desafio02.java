@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Desafio02 {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
+        //System.out.println("Digite a porcentagem, usando 1-10");
+        //System.out.println("10% = 1");
         int tamanho = leitor.nextInt();
 
         String resultado;
